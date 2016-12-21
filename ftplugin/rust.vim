@@ -1,1 +1,1 @@
-nnoremap	<F5>	<Esc>:!rustc % && =expand('%:p:r')<cr><cr>
+nnoremap	<leader>b	<Esc>:!rustc % && =expand('%:p:r')<cr><cr>
